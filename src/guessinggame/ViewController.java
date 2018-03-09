@@ -182,6 +182,7 @@ public class ViewController extends javax.swing.JFrame {
         }
         
         //test comment
+        //test comment 2
     }//GEN-LAST:event_btnGuessActionPerformed
 
     private void btnQuitActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnQuitActionPerformed
